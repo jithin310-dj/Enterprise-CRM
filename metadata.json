@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise CRM",
+  "description": "A high-fidelity Enterprise Customer Relationship Management (CRM) dashboard designed for managing Customers, Leads, Sales, Products, HR, Attendance, Payroll, Recruitment, Tasks, Meetings, and Billing, with robust role-based permissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
